@@ -1,0 +1,28 @@
+{
+  "name": "jest-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielScalici/jest-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielScalici/jest-learning/issues"
+  },
+  "homepage": "https://github.com/GabrielScalici/jest-learning#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.0",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
